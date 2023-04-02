@@ -24,6 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/BoBlecod/Frontend-Mentor-QR-code-component/blob/main/index.html)
+- Live site URL: [WebSite URL] (my-project-blush-seven.vercel.app)
 
 ## My process
 
